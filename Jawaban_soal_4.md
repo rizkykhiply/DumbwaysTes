@@ -1,0 +1,1 @@
+CI/CD di perlukan karna dapat menyebarkan software sesuai dengan permintaan berdasarkan persyaratan bisnis, dapat mengurangi risiko software yang tidak berfungsi dengan baik , dan dapat pulih lebih cepat ketika terjadi kegagalan.

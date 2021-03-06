@@ -1,0 +1,1 @@
+jawaban berupa video yang berada di directory videos/soal no 2.mp4

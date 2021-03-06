@@ -1,0 +1,1 @@
+jawaban berupa gambar di directory image/jawaban_no7.png
